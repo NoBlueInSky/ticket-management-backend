@@ -15,8 +15,8 @@ This repository contains the backend codebase for the Ticket Management system. 
 ## Technologies Used
 - Spring Boot
 - Maven
-- YourDatabase (e.g., MySQL, PostgreSQL)
+- PostgreSQL
 
 ## Contributors
-- Your Name <your.email@example.com>
+- Your Name <Sanpishaikorn.ball@gmail.com>
 
